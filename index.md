@@ -4,10 +4,9 @@
 # Raygue
 
 * Namaku Harnindyto W
-
+* Just a random normal guy
 * [URLs](URLs/)
 
-<img src="raygue.jpg" width="256">
 
 -- Raygue.
 
